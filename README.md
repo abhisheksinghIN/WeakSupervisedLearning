@@ -20,3 +20,7 @@ For deatailed Information: https://ieeexplore.ieee.org/document/11016942
 <img width="820" height="545" alt="image" src="https://github.com/user-attachments/assets/776a2749-4fbc-4b82-96b5-be28a699ce0e" />
 
 Proposed methodology of the proposed WRGAN for refined super-resolved WRM generation.
+
+
+# References
+1. WaveTF: a 1D and 2D wavelet library for TensorFlow and Keras, https://github.com/fversaci/WaveTF
