@@ -15,7 +15,7 @@ We develop an efficient framework for multisource image fusion which utilizes th
 
 We compare the effectiveness of the obtained feature map with those of other general generative models and study the impact of refined super-resolved WRM in terms of segmentation accuracy.
 
-For deatailed Information: https://ieeexplore.ieee.org/document/11016942
+For detailed Information: https://ieeexplore.ieee.org/document/11016942
 
 <img width="820" height="545" alt="image" src="https://github.com/user-attachments/assets/776a2749-4fbc-4b82-96b5-be28a699ce0e" />
 
